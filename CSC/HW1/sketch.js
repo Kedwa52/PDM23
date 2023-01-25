@@ -6,7 +6,7 @@ function setup() {
 }
 
 function draw() {
-  background(50);
+  background(10);
 
   x = mousex;
   y = mousey;
